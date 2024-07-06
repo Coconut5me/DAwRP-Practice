@@ -1,0 +1,19 @@
+<products category="Beer">
+    <product name="Heineken">
+        <id>1</id>
+        <price>$1.5</price>
+        <slogan formatted="yes">Chỉ Có Thể Là Heineken</slogan>
+    </product>
+
+    <product name="Tiger">
+        <id>2</id>
+        <price>$1.3</price>
+        <slogan formatted="yes">Nhưng Chắc Chắn Là Tiger</slogan>
+    </product>
+
+    <product name="Sapporo">
+        <id>3</id>
+        <price>$2.2</price>
+        <slogan formatted="yes">Tận Hưởng Từng Khoảnh Khắc</slogan>
+    </product>
+</products>

@@ -1,0 +1,19 @@
+<products category="Beer">
+    <product name="Heineken">
+        <id>1</id>
+        <price formatted="yes">34500VND</price>
+        <slogan>Chỉ có thể là Heineken</slogan>
+    </product>
+
+    <product name="Tiger">
+        <id>2</id>
+        <price formatted="yes">29900VND</price>
+        <slogan>Nhưng chắc chắn là Tiger</slogan>
+    </product>
+
+    <product name="Sapporo">
+        <id>3</id>
+        <price formatted="yes">50600VND</price>
+        <slogan>Tận hưởng từng khoảnh khắc</slogan>
+    </product>
+</products>
